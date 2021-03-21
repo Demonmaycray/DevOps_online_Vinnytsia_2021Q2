@@ -1,0 +1,18 @@
+$ git reflog
+5d185be (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+21bec59 HEAD@{1}: checkout: moving from develop to master
+5d185be (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: merge styles: Merge made by the 'recursive' strategy.
+8240d21 HEAD@{3}: merge images: Merge made by the 'recursive' strategy.
+53eb7e9 HEAD@{4}: checkout: moving from images to develop
+aacca37 (origin/images, images) HEAD@{5}: checkout: moving from develop to images
+53eb7e9 HEAD@{6}: checkout: moving from styles to develop
+f3e84fb (origin/styles, styles) HEAD@{7}: commit: chenged file index.html
+6bfad9b HEAD@{8}: commit: create some styles
+53eb7e9 HEAD@{9}: checkout: moving from develop to styles
+53eb7e9 HEAD@{10}: commit: modified file index.html
+9b15bf6 HEAD@{11}: checkout: moving from images to develop
+aacca37 (origin/images, images) HEAD@{12}: commit: create some images
+9b15bf6 HEAD@{13}: checkout: moving from develop to images
+9b15bf6 HEAD@{14}: commit: create .html file
+21bec59 HEAD@{15}: checkout: moving from master to develop
+21bec59 HEAD@{16}: commit (initial): create new file
